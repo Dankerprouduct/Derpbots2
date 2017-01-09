@@ -8,21 +8,20 @@ using Microsoft.Xna.Framework.Content;
 
 namespace Derpbots2
 {
-    public class Map
+    public class MapRenderer
     {
-        public Map()
+        public MapRenderer()
+        {
+
+        }
+        public void LoadContent(ContentManager content)
+        {
+
+        }
+        public void Update()
         {
             
         }
-        public void LoadContent()
-        {
-
-        }
-        public void Update(ContentManager content)
-        {
-
-        }
-
         public void Draw(SpriteBatch spriteBatch)
         {
 
