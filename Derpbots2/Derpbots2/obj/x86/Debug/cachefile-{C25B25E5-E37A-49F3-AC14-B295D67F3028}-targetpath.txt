@@ -1,0 +1,8 @@
+Content\TextureSheet.xnb
+Content\orangeGuy.xnb
+Content\Sprites\Derpbot.xnb
+Content\Sprites\laser_projectile.xnb
+Content\Sprites\Particles\Particle1.xnb
+Content\Xml\Weapons.xnb
+Content\Xml\Ammo.xnb
+Content\SpriteFont1.xnb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Derpbots2Library.Weapon[]">
+    
+      
+    <Item>
+      <name>Laser Gun</name>
+      <assetName>BasicLaser</assetName>
+      <description>a basic laser</description>
+      <ammoId>1</ammoId>
+      <clipSize>9999</clipSize>
+      <clipAmmount>9999</clipAmmount>
+    </Item>
+        
+    
+    
+  </Asset>
+</XnaContent>

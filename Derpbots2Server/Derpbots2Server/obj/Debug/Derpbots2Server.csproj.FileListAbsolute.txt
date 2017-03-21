@@ -1,0 +1,13 @@
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\bin\Debug\Derpbots2Server.exe.config
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\bin\Debug\Derpbots2Server.exe
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\bin\Debug\Derpbots2Server.pdb
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\obj\Debug\Derpbots2Server.csprojResolveAssemblyReference.cache
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\obj\Debug\Derpbots2Server.exe
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\obj\Debug\Derpbots2Server.pdb
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\bin\Debug\Lidgren.Network.dll
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\bin\Debug\Lidgren.Network.pdb
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\bin\Debug\Lidgren.Network.xml
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\bin\Debug\Derpbots2Server.exe.manifest
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\bin\Debug\Derpbots2Server.application
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\obj\Debug\Derpbots2Server.exe.manifest
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Server\Derpbots2Server\obj\Debug\Derpbots2Server.application

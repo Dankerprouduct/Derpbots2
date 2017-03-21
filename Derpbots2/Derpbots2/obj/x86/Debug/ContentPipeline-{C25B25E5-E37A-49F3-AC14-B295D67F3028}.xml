@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>TextureSheet.png</Source>
+      <Name>TextureSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2\Derpbots2\bin\x86\Debug\Content\TextureSheet.xnb</Output>
+      <Time>2017-01-09T16:42:53.1793985-05:00</Time>
+    </Item>
+    <Item>
+      <Source>orangeGuy.png</Source>
+      <Name>orangeGuy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2\Derpbots2\bin\x86\Debug\Content\orangeGuy.xnb</Output>
+      <Time>2017-01-11T13:00:27.9045649-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Derpbot.png</Source>
+      <Name>Sprites\Derpbot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2\Derpbots2\bin\x86\Debug\Content\Sprites\Derpbot.xnb</Output>
+      <Time>2017-01-11T14:01:30.9273586-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\laser_projectile.png</Source>
+      <Name>Sprites\laser_projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2\Derpbots2\bin\x86\Debug\Content\Sprites\laser_projectile.xnb</Output>
+      <Time>2017-01-13T12:28:59.8623296-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Particles\Particle1.png</Source>
+      <Name>Sprites\Particles\Particle1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2\Derpbots2\bin\x86\Debug\Content\Sprites\Particles\Particle1.xnb</Output>
+      <Time>2017-01-14T21:18:41.2782976-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Xml\Weapons.xml</Source>
+      <Name>Xml\Weapons</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2\Derpbots2\bin\x86\Debug\Content\Xml\Weapons.xnb</Output>
+      <Time>2017-01-11T14:21:17.9110018-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Xml\Ammo.xml</Source>
+      <Name>Xml\Ammo</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2\Derpbots2\bin\x86\Debug\Content\Xml\Ammo.xnb</Output>
+      <Time>2017-01-11T14:21:47.4030962-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2\Derpbots2\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2017-01-13T13:36:07.4806355-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C25B25E5-E37A-49F3-AC14-B295D67F3028}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2\Derpbots2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2\Derpbots2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2\Derpbots2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2\Derpbots2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\TiledSharp-master\TiledSharp\bin\Debug\TiledSharp.dll</Key>
+        <Value>2017-02-15T12:23:59.6136997-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Derpbots2Library.dll</Key>
+        <Value>2017-02-15T12:23:59.1633796-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-09-26T07:17:37.6288844-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

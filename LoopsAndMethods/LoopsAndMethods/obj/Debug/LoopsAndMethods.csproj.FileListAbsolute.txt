@@ -1,0 +1,6 @@
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\LoopsAndMethods\LoopsAndMethods\bin\Debug\LoopsAndMethods.exe.config
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\LoopsAndMethods\LoopsAndMethods\bin\Debug\LoopsAndMethods.exe
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\LoopsAndMethods\LoopsAndMethods\bin\Debug\LoopsAndMethods.pdb
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\LoopsAndMethods\LoopsAndMethods\obj\Debug\LoopsAndMethods.csprojResolveAssemblyReference.cache
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\LoopsAndMethods\LoopsAndMethods\obj\Debug\LoopsAndMethods.exe
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\LoopsAndMethods\LoopsAndMethods\obj\Debug\LoopsAndMethods.pdb

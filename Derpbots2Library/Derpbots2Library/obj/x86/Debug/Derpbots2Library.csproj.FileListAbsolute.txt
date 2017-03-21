@@ -1,0 +1,16 @@
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Derpbots2Library.dll
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Derpbots2Library.pdb
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\obj\x86\Debug\Derpbots2Library.csprojResolveAssemblyReference.cache
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\obj\x86\Debug\Derpbots2Library.dll
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\Derpbots2\Derpbots2Library\Derpbots2Library\obj\x86\Debug\Derpbots2Library.pdb
